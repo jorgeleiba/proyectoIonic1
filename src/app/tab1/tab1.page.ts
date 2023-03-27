@@ -13,5 +13,6 @@ export class Tab1Page implements OnInit{
       console.log('Buen dia');
       let numero = 0;
       numero = 89;
+      numero = 87;
   }
 }
