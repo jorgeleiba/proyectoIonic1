@@ -14,5 +14,6 @@ export class Tab1Page implements OnInit{
       let numero = 0;
       numero = 89;
       numero = 87;
+      numero =6;
   }
 }
