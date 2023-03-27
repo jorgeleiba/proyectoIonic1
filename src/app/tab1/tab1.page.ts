@@ -12,6 +12,10 @@ export class Tab1Page implements OnInit{
   ngOnInit(): void {
       console.log('Buen dia');
       let numero = 0;
+      numero = 89;
+      numero = 87;
+      numero =6;
       numero =5;
+
   }
 }
